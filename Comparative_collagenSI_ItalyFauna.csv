@@ -1,0 +1,117 @@
+Sample,Site,Area,Period,AnimalGroup,Taxon,TaxGroupComp,d15N,d13C,Reference
+PRO_07,Orvieto,Etruscan C Italy,5th c BC,,Ovis aries,Sheep/goat,4.38,-20.11,Trentacoste et al. 2020
+PRO_08,Orvieto,Etruscan C Italy,5th c BC,,Ovis aries,Sheep/goat,4.62,-20.75,Trentacoste et al. 2020
+PRO_09,Orvieto,Etruscan C Italy,5th c BC,,Ovis aries,Sheep/goat,6.5,-20.4,Trentacoste et al. 2020
+PRO_10,Orvieto,Etruscan C Italy,5th c BC,,Ovis aries,Sheep/goat,3.95,-19.5,Trentacoste et al. 2020
+PRO_11,Orvieto,Etruscan C Italy,5th c BC,,Ovis aries,Sheep/goat,4.63,-20.11,Trentacoste et al. 2020
+PRO_12,Orvieto,Etruscan C Italy,5th c BC,,Ovis aries,Sheep/goat,5.83,-19.64,Trentacoste et al. 2020
+PRO_01,Poggio Civitate,Etruscan C Italy,7th c BC,,Ovis aries,Sheep/goat,5.58,-20.96,Trentacoste et al. 2020
+PRO_02,Poggio Civitate,Etruscan C Italy,7th c BC,,Ovis aries,Sheep/goat,4.48,-20.4,Trentacoste et al. 2020
+PRO_03,Poggio Civitate,Etruscan C Italy,7th c BC,,Ovis aries,Sheep/goat,5.63,-19.53,Trentacoste et al. 2020
+PRO_04,Poggio Civitate,Etruscan C Italy,7th c BC,,Ovis aries,Sheep/goat,5.19,-20.87,Trentacoste et al. 2020
+PRO_05,Poggio Civitate,Etruscan C Italy,7th c BC,,Ovis aries,Sheep/goat,7.17,-20.12,Trentacoste et al. 2020
+PRO_06,Poggio Civitate,Etruscan C Italy,7th c BC,,Ovis aries,Sheep/goat,5.35,-20.17,Trentacoste et al. 2020
+5970,Isola Sacra,Isola Sacra,,Caninae,Canis lupus,Canid,9.2,-19.2,Prowse 2001
+5973,Isola Sacra,Isola Sacra,,Caninae,Vulpes,Canid,9.3,-19.1,Prowse 2001
+5958,Isola Sacra,Isola Sacra,,Equinae,Equus,Equid,3.6,-21.2,Prowse 2001
+5974,Isola Sacra,Isola Sacra,,Equinae,Equus,Equid,4.3,-20.9,Prowse 2001
+5960,Isola Sacra,Isola Sacra,,Equinae,Equus,Equid,7.7,-19.8,Prowse 2001
+5972,Isola Sacra,Isola Sacra,,Caprinae,Capra hircus,Sheep/goat,5.8,-20.6,Prowse 2001
+5962,Isola Sacra,Isola Sacra,,Suinae,Sus scrofa,Pig,4,-20.5,Prowse 2001
+5971,Isola Sacra,Isola Sacra,,Suinae,Sus scrofa,Pig,7.2,-20.3,Prowse 2001
+5961,Isola Sacra,Isola Sacra,,Suinae,Sus scrofa,Pig,4.5,-20.1,Prowse 2001
+PSCH1,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I AD ,Terrestrial omnivore,Gallus gallus domesticus,Bird,7,-17.1,Soncin et al. 2021)
+PSCH2,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I AD ,Terrestrial omnivore,Gallus gallus domesticus,Bird,5.6,-18.2,Soncin et al. 2021)
+PSCH3,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I AD ,Terrestrial omnivore,Gallus gallus domesticus,Bird,6.4,-15.6,Soncin et al. 2021)
+PSC1,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I BC,Terrestrial herbivore,Bos taurus ,Cattle,5.8,-19.4,Soncin et al. 2021)
+PSC2,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I BC,Terrestrial herbivore,Bos taurus ,Cattle,6.2,-20.2,Soncin et al. 2021)
+EF8BOS,Herculaneum,Pompeii/Herculaneum,79 AD ,Terrestrial herbivore,Bos taurus ,Cattle,6.2,-21.5,Soncin et al. 2021)
+EF10OC,Herculaneum,Pompeii/Herculaneum,79 AD ,Terrestrial herbivore,Ovis aries,Sheep/goat,3.7,-19.8,Soncin et al. 2021)
+EF7OC,Herculaneum,Pompeii/Herculaneum,79 AD ,Terrestrial herbivore,Ovis aries,Sheep/goat,3.2,-20.1,Soncin et al. 2021)
+F8SG,Herculaneum,Pompeii/Herculaneum,79 AD ,Terrestrial herbivore,Ovis aries,Sheep/goat,7.3,-21.6,Soncin et al. 2021)
+PSP3,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I AD ,Terrestrial omnivore,Sus scrofa,Pig,6.3,-20.8,Soncin et al. 2021)
+PSP4,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I AD ,Terrestrial omnivore,Sus scrofa,Pig,3.1,-20.1,Soncin et al. 2021)
+PSP5,Porta Stabia - Pompeii,Pompeii/Herculaneum,Early I AD ,Terrestrial omnivore,Sus scrofa,Pig,7.9,-21.4,Soncin et al. 2021)
+PTXI064 ,Portus,Portus,Early 3rd ,,Gallus gallus domesticus,Bird,9.8,-19.1,O'Connell et al. 2019
+PTXI066 ,Portus,Portus,Early 3rd ,,Duck ,Bird,6.9,-21.8,O'Connell et al. 2019
+PTXI050 ,Portus,Portus,Mid 5th–early 6th ,,Duck ,Bird,10.2,-18.5,O'Connell et al. 2019
+PTXI061 ,Portus,Portus,Mid 5th–early 6th ,,Pigeon ,Bird,7,-21.7,O'Connell et al. 2019
+PTXI063 ,Portus,Portus,Mid 5th–early 6th ,,Pigeon/Duck ,Bird,8.3,-19.1,O'Connell et al. 2019
+PTXI062 ,Portus,Portus,Mid 5th–early 6th ,,Gallus gallus domesticus,Bird,9.8,-19.3,O'Connell et al. 2019
+PTXI080 ,Portus,Portus,Mid 5th–early 6th ,,Gallus gallus domesticus,Bird,10.5,-19.4,O'Connell et al. 2019
+PTXI055 ,Portus,Portus,Mid 5th–early 6th ,,Domestic fowl / Pheasant ,Bird,10.7,-19,O'Connell et al. 2019
+PTXI057 ,Portus,Portus,Mid 5th–early 6th ,,Pheasant ,Bird,7.1,-19.2,O'Connell et al. 2019
+PTXI001 ,Portus,Portus,Early 3rd ,,Bos taurus ,Cattle,5,-21.3,O'Connell et al. 2019
+PTXI007 ,Portus,Portus,Early 3rd ,,Bos taurus ,Cattle,2.9,-21.3,O'Connell et al. 2019
+PTXI016 ,Portus,Portus,Early 3rd ,,Bos taurus ,Cattle,5,-21.3,O'Connell et al. 2019
+PTXI071 ,Portus,Portus,Early 3rd ,,Bos taurus ,Cattle,9.5,-19.6,O'Connell et al. 2019
+PTXI012 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,6.5,-20.6,O'Connell et al. 2019
+PTXI013 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,6.2,-21.2,O'Connell et al. 2019
+PTXI020 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,4.9,-20.7,O'Connell et al. 2019
+PTXI030 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,6.6,-21,O'Connell et al. 2019
+PTXI032 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,6.2,-21.4,O'Connell et al. 2019
+PTXI034 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,8,-20.9,O'Connell et al. 2019
+PTXI002 ,Portus,Portus,Mid 5th–early 6th ,,Equus caballus,Equid,2.8,-21.1,O'Connell et al. 2019
+PTXI003 ,Portus,Portus,Mid 5th–early 6th ,,Equus caballus,Equid,5,-21.6,O'Connell et al. 2019
+PTXI006 ,Portus,Portus,Mid 5th–early 6th ,,Equus caballus,Equid,5.1,-19.1,O'Connell et al. 2019
+PTXI039 ,Portus,Portus,Mid 5th–early 6th ,,Equus caballus,Equid,2.8,-21.1,O'Connell et al. 2019
+PTXI069 ,Portus,Portus,Mid 5th–early 6th ,,Equus,Equid,3.2,-21,O'Connell et al. 2019
+PTXI075 ,Portus,Portus,Mid 5th–early 6th ,,Equus,Equid,3.8,-18.8,O'Connell et al. 2019
+PTXI076 ,Portus,Portus,Mid 5th–early 6th ,,Equus,Equid,4.3,-18.8,O'Connell et al. 2019
+PTXI010 ,Portus,Portus,Mid 5th–early 6th ,,Dama dama,Deer,5.5,-21.2,O'Connell et al. 2019
+PTXI078 ,Portus,Portus,Mid 5th–early 6th ,,Dama dama,Deer,5.7,-22.3,O'Connell et al. 2019
+PTXI083 ,Portus,Portus,Mid 5th–early 6th ,,Fish ,Fish,7.9,-13.9,O'Connell et al. 2019
+PTXI084 ,Portus,Portus,Mid 5th–early 6th ,,Fish ,Fish,9.9,-15.1,O'Connell et al. 2019
+PTXI085 ,Portus,Portus,Mid 5th–early 6th ,,Fish ,Fish,12.1,-13.4,O'Connell et al. 2019
+PTXI082 ,Portus,Portus,Mid 5th–early 6th ,,Seabream ,Fish,10.1,-7.6,O'Connell et al. 2019
+PTXI028 ,Portus,Portus,Mid 5th–early 6th ,,Bos taurus ,Cattle,5.4,-20.6,O'Connell et al. 2019
+PTXI004 ,Portus,Portus,Early 2nd ,,Ovis aries,Sheep/goat,4.8,-20.9,O'Connell et al. 2019
+PTXI009 ,Portus,Portus,Late 4th–early 5th ,,Ovis aries,Sheep/goat,10.9,-18.1,O'Connell et al. 2019
+PTXI011 ,Portus,Portus,Mid 5th–early 6th ,,Ovis aries,Sheep/goat,5.9,-21.1,O'Connell et al. 2019
+PTXI021 ,Portus,Portus,Mid 5th–early 6th ,,Ovis aries,Sheep/goat,6.1,-21.2,O'Connell et al. 2019
+PTXI051 ,Portus,Portus,Mid 5th–early 6th ,,Ovis aries,Sheep/goat,4.5,-21.4,O'Connell et al. 2019
+PTXI059 ,Portus,Portus,Mid 5th–early 6th ,,Ovis aries,Sheep/goat,2.5,-21.5,O'Connell et al. 2019
+PTXI073 ,Portus,Portus,Mid 5th–early 6th ,,Ovis aries,Sheep/goat,2.6,-21.1,O'Connell et al. 2019
+PTXI035 ,Portus,Portus,Mid 5th–early 6th ,,Ovis aries,Sheep/goat,5.5,-20.4,O'Connell et al. 2019
+PTXI067 ,Portus,Portus,Early 3rd ,,Ovis/Capra,Sheep/goat,3.3,-21.1,O'Connell et al. 2019
+PTXI070 ,Portus,Portus,Early 3rd ,,Ovis/Capra,Sheep/goat,7.2,-20.7,O'Connell et al. 2019
+PTXI068 ,Portus,Portus,Late 4th–early 5th ,,Ovis/Capra,Sheep/goat,3.6,-20.9,O'Connell et al. 2019
+PTXI048 ,Portus,Portus,Mid 5th–early 6th ,,Ovis/Capra,Sheep/goat,3.8,-21.2,O'Connell et al. 2019
+PTXI056 ,Portus,Portus,Mid 5th–early 6th ,,Ovis/Capra,Sheep/goat,4.7,-20.1,O'Connell et al. 2019
+PTXI077 ,Portus,Portus,Mid 5th–early 6th ,,Ovis/Capra,Sheep/goat,5.4,-21.5,O'Connell et al. 2019
+PTXI081 ,Portus,Portus,Mid 5th–early 6th ,,Ovis/Capra,Sheep/goat,5.8,-20.5,O'Connell et al. 2019
+PTXI008 ,Portus,Portus,Early 3rd ,,Sus scrofa,Pig,8.6,-21.1,O'Connell et al. 2019
+PTXI065 ,Portus,Portus,Early 3rd ,,Sus scrofa,Pig,4.3,-20.4,O'Connell et al. 2019
+PTXI072 ,Portus,Portus,Early 3rd ,,Sus scrofa,Pig,3.5,-20.8,O'Connell et al. 2019
+PTXI005 ,Portus,Portus,Mid 5th–early 6th ,,Sus scrofa,Pig,7.4,-20.5,O'Connell et al. 2019
+PTXI052 ,Portus,Portus,Mid 5th–early 6th ,,Sus scrofa,Pig,3.5,-21.4,O'Connell et al. 2019
+PTXI053 ,Portus,Portus,Mid 5th–early 6th ,,Sus scrofa,Pig,6.2,-21,O'Connell et al. 2019
+PTXI060 ,Portus,Portus,Mid 5th–early 6th ,,Sus scrofa,Pig,3,-21.1,O'Connell et al. 2019
+PTXI079 ,Portus,Portus,Mid 5th–early 6th ,,Sus scrofa,Pig,5,-20.6,O'Connell et al. 2019
+Velia 1010      ,Velia,Velia,4317,,Bos taurus ,Cattle,2.9,-22.6,Craig et al. 2009
+Velia 1877      ,Velia,Velia,4306,,Canis/vulpes,Canid,8.7,-18.9,Craig et al. 2009
+Velia T 400     ,Velia,Velia,4307,,Canis/vulpes,Canid,9,-18.9,Craig et al. 2009
+Velia 1615      ,Velia,Velia,4303,,Canis/vulpes,Canid,8.7,-18.7,Craig et al. 2009
+Velia 1.668     ,Velia,Velia,4308,,Canis/vulpes,Canid,8.8,-18.4,Craig et al. 2009
+Velia 3305      ,Velia,Velia,4304,,Canis/vulpes,Canid,7.6,-18.1,Craig et al. 2009
+Velia 3127      ,Velia,Velia,4305,,Canis/vulpes,Canid,8.4,-18.1,Craig et al. 2009
+Velia 1401      ,Velia,Velia,4302,,Cervinae,Deer,4.7,-22,Craig et al. 2009
+Velia 117 A     ,Velia,Velia,4299,,Cervinae,Deer,2.2,-23,Craig et al. 2009
+Velia 1249      ,Velia,Velia,4301,,Cervinae,Deer,2.6,-22.5,Craig et al. 2009
+Velia 117 B     ,Velia,Velia,4300,,Cervinae,Deer,2,-21.8,Craig et al. 2009
+Velia 1918 (T146) ,Velia,Velia,4314,,Equus,Equid,2.3,-21.6,Craig et al. 2009
+Velia 1472      ,Velia,Velia,4311,,Equus,Equid,4,-21.4,Craig et al. 2009
+Velia 1.81      ,Velia,Velia,4313,,Equus,Equid,5.7,-20.6,Craig et al. 2009
+Velia 1733      ,Velia,Velia,4310,,Equus,Equid,3.1,-20.5,Craig et al. 2009
+Velia 2227      ,Velia,Velia,4312,,Equus,Equid,3.5,-20.5,Craig et al. 2009
+Velia 3.32,Velia,Velia,4325,,Marine fish,Fish,9.9,-14.9,Craig et al. 2009
+Velia 1685      ,Velia,Velia,4324,,Marine fish,Fish,9.8,-13.9,Craig et al. 2009
+Velia Tonno     ,Velia,Velia,4323,,Marine fish,Fish,12.1,-13.5,Craig et al. 2009
+Velia 1180      ,Velia,Velia,4309,,Marine fish,Fish,9.1,-12.6,Craig et al. 2009
+Velia 1459      ,Velia,Velia,4316,,Ovis/Capra,Sheep/goat,2.6,-21.2,Craig et al. 2009
+Velia 1172      ,Velia,Velia,4315,,Ovis/Capra,Sheep/goat,6.5,-19.1,Craig et al. 2009
+Velia 1806      ,Velia,Velia,4319,,Sus scrofa,Pig,3.2,-21.5,Craig et al. 2009
+Velia 2635      ,Velia,Velia,4322,,Sus scrofa,Pig,4,-21.3,Craig et al. 2009
+Velia 1381 (T312),Velia,Velia,4318,,Sus scrofa,Pig,3.1,-21,Craig et al. 2009
+Velia 2541      ,Velia,Velia,4321,,Sus scrofa,Pig,5.3,-20.9,Craig et al. 2009
+Velia 1282      ,Velia,Velia,4320,,Sus scrofa,Pig,7.9,-20.5,Craig et al. 2009

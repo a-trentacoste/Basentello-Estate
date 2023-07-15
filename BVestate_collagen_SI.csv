@@ -1,0 +1,91 @@
+Sample,C.N,d15N,d13C,perN,perC,Run,Exclude,NotesCollagen,Site,SU,Taxon,TaxGroup,TaxGroupComp,Species,MajorGroup,Element,Details,CollagenYield
+VV12,3.24,6.55,-21.36,16.04,44.48,1,,,Vagnari vicus,2014,Sheep,Ovis/Capra,Sheep/goat,Ovis,Herbivores,Radius,,0.109
+VV11,3.31,7.65,-21.38,16,45.4,1,,Outlier,Vagnari vicus,2024,Pig,Sus,Pig,,Omnivores,Mandible,,0.058
+VV10,3.23,6.95,-21.54,17.39,48.2,1,,,Vagnari vicus,4030,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Metacarpal,,0.122
+VV09,3.26,6.68,-20.81,15.25,42.58,1,,,Vagnari vicus,5015,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Scapula,,0.076
+VV08,3.23,5.31,-19.69,16.61,45.95,1,,,Vagnari vicus,2008,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.193
+VV07,3.22,5.96,-20.25,15.47,42.73,1,,,Vagnari vicus,5015,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Metacarpal,,0.197
+VV06,3.24,4.28,-20.6,15.2,42.2,1,,,Vagnari vicus,3029,Cattle,Bos,Cattle,,Herbivores,Metatarsal,,0.046
+VV05,3.25,4.94,-20.38,14.92,41.54,1,,,Vagnari vicus,5015,Pig,Sus,Pig,,Omnivores,Mandible,M3 Grant wear stage a,0.083
+VV04,3.22,7.33,-20.48,15.63,43.12,1,,,Vagnari vicus,3019,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.256
+VV03,3.2,4.09,-21.47,15.96,43.82,1,,,Vagnari vicus,5015,Cattle,Bos,Cattle,,Herbivores,Tibia,,0.235
+VV02,3.22,4.98,-19.91,15.33,42.37,1,,,Vagnari vicus,2008,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.168
+VV01,3.2,5.48,-20.66,15.62,42.79,1,,,Vagnari vicus,4028,Pig,Sus,Pig,,Omnivores,Metapodial,,0.036
+VV32,3.25,6.44,-21.63,15.06,41.97,2,,,Vagnari vicus,3041,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Humerus,,0.069
+VV31,3.19,4.02,-20.22,14.28,39.08,2,Excluded,Could not id to species. Likely caprine. Excluded from further analysis.,Vagnari vicus,4028,Large Mammal,,,,,Rib,,0.074
+VV30,3.22,6.93,-20.01,14.8,40.9,2,,Outlier,Vagnari vicus,4027,Cattle,Bos,Cattle,,Herbivores,Phalanx I,,0.053
+VV29,3.26,4.61,-20.37,14.33,39.99,2,,,Vagnari vicus,3019,Cattle,Bos,Cattle,,Herbivores,Semilunaire,,0.053
+VV28,3.26,6.17,-21.16,14.61,40.86,2,,,Vagnari vicus,3019,Red deer,Cervus elaphus,Deer,,Herbivores,Phalanx II,,0.029
+VV27,3.24,4.8,-21.23,14.06,39.08,2,,,Vagnari vicus,6040,Pig,Sus,Pig,,Omnivores,Phalanx II,,0.088
+VV25,3.22,5.86,-20.79,15.32,42.29,2,,,Vagnari vicus,4032,Pig,Sus,Pig,,Omnivores,Astragalus,,0.106
+VV24,3.23,4.16,-20.91,15.17,41.99,2,,,Vagnari vicus,5015,Pig,Sus,Pig,,Omnivores,Radius,,0.043
+VV22,3.23,8.37,-19.04,16.13,44.66,2,,,Vagnari vicus,5015,Dog,Canis,Canid,,Omnivores,Metatarsal,,0.104
+VV21,3.23,5.48,-20.79,16.08,44.58,2,,,Vagnari vicus,5015,Sheep/goat,Ovis/Capra,Sheep/goat,Ovis?,Herbivores,Astragalus,,0.06
+VV20,3.23,5.18,-20.31,15.79,43.69,2,,,Vagnari vicus,4030,Cattle,Bos,Cattle,,Herbivores,Tibia,,0.025
+VV18,3.29,2.74,-19.61,15.5,43.7,2,,Outlier,Vagnari vicus,4030,Pig,Sus,Pig,,Omnivores,Phalanx I,,0.042
+VV17,3.22,4.36,-20.66,14.85,41.02,2,,,Vagnari vicus,4030,Cattle,Bos,Cattle,,Herbivores,Phalanx III,,0.084
+VV16,3.24,7.08,-20.04,16.48,45.71,2,,,Vagnari vicus,4030,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.051
+VV15,3.21,5.24,-20.85,16.14,44.37,2,,,Vagnari vicus,4030,Sheep/goat,Ovis/Capra,Sheep/goat,Capra?,Herbivores,Radius,,0.064
+VV14,3.23,5.34,-21.22,16.24,44.98,2,,,Vagnari vicus,4030,Sheep,Ovis/Capra,Sheep/goat,Ovis,Herbivores,Humerus,,0.127
+VV23,3.22,5.1,-20.55,16.49,45.56,3,,,Vagnari vicus,5015,Sheep/goat,Ovis/Capra,Sheep/goat,Ovis?,Herbivores,Tibia,,0.117
+VV19,3.24,6.64,-20.48,15.84,44,3,,,Vagnari vicus,4030,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Metatarsal,,0.136
+VV13,3.41,5.32,-20.81,14.57,42.58,3,,,Vagnari vicus,4030,Pig,Sus,Pig,,Omnivores,Maxilla,,0.095
+SF44,3.3,7.42,-19.78,13.8,39,3,,Outlier,San Felice,18019,Cattle,Bos,Cattle,,Herbivores,Astragalus,,0.033
+SF43,3.27,5.38,-21.13,15.93,44.69,3,,,San Felice,18019,Pig,Sus,Pig,,Omnivores,Mandible,M3 erupting,0.101
+SF42,3.23,2.65,-19.92,15.8,43.8,3,,Outlier,San Felice,11022,Pig,Sus,Pig,,Omnivores,Maxilla,,0.1
+SF41,3.22,5.29,-20.6,16.16,44.67,3,,,San Felice,18050,Sheep,Ovis/Capra,Sheep/goat,Ovis,Herbivores,Tibia,,0.126
+SF40,3.22,5.06,-21.04,14.5,40.06,3,,,San Felice,18050,Pig,Sus,Pig,,Omnivores,Tibia,,0.142
+SF39,3.25,3.82,-20.48,15.6,43.4,3,,,San Felice,18050,Equid,Equus,Equid,,Herbivores,Metapodial,,0.111
+SF38,3.27,5.6,-19.64,14.05,39.33,3,,,San Felice,7031,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Maxilla,,0.045
+SF37,3.28,4.53,-20.26,14.78,41.55,3,,,San Felice,7031,Pig,Sus,Pig,,Omnivores,Maxilla,,0.062
+SF36,3.22,5.42,-20.95,15.77,43.6,3,,,San Felice,18039,Pig,Sus,Pig,,Omnivores,Fibula,,0.088
+SF35,3.21,4.62,-20.99,15.09,41.47,3,,,San Felice,18039,Pig,Sus,Pig,,Omnivores,Radius,,0.098
+SF34,3.21,5.19,-21.11,15.12,41.65,3,,,San Felice,18039,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.105
+SF33,3.22,2.67,-21.15,16.1,44.5,3,,Outlier,San Felice,18056,Cattle,Bos,Cattle,,Herbivores,Radius,,0.048
+VV9E,3.26,6.99,-19.61,15.07,42.08,4,,,Vagnari vicus,2022,Goat,Ovis/Capra,Sheep/goat,Capra,Herbivores,Mandible,Associated w enamel sample 9,0.093
+SF8E,3.26,5.9,-20.41,14.02,39.14,4,,,San Felice,12009,Sheep,Ovis/Capra,Sheep/goat,Ovis,Herbivores,Mandible,Associated w enamel sample 8,0.047
+SF56,3.22,4.79,-20.32,15.1,41.64,4,,,San Felice,18029,Pig,Sus,Pig,,Omnivores,Ulna,,0.036
+SF56,3.22,4.79,-20.32,15.1,41.64,4,,,San Felice,18029,Pig,Sus,Pig,,Omnivores,Ulna,,0.036
+SF55,3.26,5.7,-21.09,14.38,40.22,4,,,San Felice,18021,Pig,Sus,Pig,,Omnivores,Maxilla,,0.051
+SF54,3.23,5.42,-20.64,14.42,39.94,4,,,San Felice,18020,Pig,Sus,Pig,,Omnivores,Maxilla,,0.092
+SF53,3.28,4.45,-20.71,13.3,37.33,4,,,San Felice,18054,Pig,Sus,Pig,,Omnivores,Mandible,,0.029
+SF52,3.22,4.74,-20.89,13.72,37.84,4,,,San Felice,18039,Pig,Sus,Pig,,Omnivores,Ulna,,0.081
+SF51,3.27,5.59,-20.73,13.31,37.3,4,,,San Felice,18020,Red deer,Cervus elaphus,Deer,,Herbivores,Radius,,0.055
+SF48,3.24,3.48,-21.23,13.2,36.6,4,,,San Felice,7031,Cattle,Bos,Cattle,,Herbivores,C3,,0.027
+SF47,3.26,3.68,-21.41,13.67,38.19,4,,,San Felice,18020,Cattle,Bos,Cattle,,Herbivores,Metacarpal,,0.045
+SF46,3.26,4.99,-19.87,13.66,38.16,4,,,San Felice,18020,Cattle,Bos,Cattle,,Herbivores,Femur,,0.042
+SF45,3.27,3.32,-21.24,13.85,38.78,4,,,San Felice,18020,Cattle,Bos,Cattle,,Herbivores,Mandible,,0.049
+SF73,3.2,5.74,-20.73,13.61,37.38,6,,,San Felice,18021,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Pelvis,,0.048
+SF72,3.24,3.94,-20.51,14.64,40.6,6,,,San Felice,18020,Cattle,Bos,Cattle,,Herbivores,Calcaneum,,0.063
+SF71,3.22,5.21,-21,15.4,42.45,6,,,San Felice,11016,Red deer,Cervus elaphus,Deer,,Herbivores,Metapodial,,0.119
+SF70,3.25,6,-20.91,15.17,42.26,6,,,San Felice,11016,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.097
+SF69,3.35,4.12,-21.54,15.05,43.24,6,,,San Felice,11016,Cattle,Bos,Cattle,,Herbivores,Radius,,0.03
+SF68,3.25,6.72,-20.64,15.44,42.96,6,,,San Felice,11016,Pig,Sus,Pig,,Omnivores,Mandible,,0.076
+SF67,3.25,5.98,-20.46,15.82,44.05,6,,,San Felice,18020,Red deer,Cervus elaphus,Deer,,Herbivores,Calcaneum,,0.08
+SF65,3.3,7.9,-19.3,14.9,42.1,6,,Outlier,San Felice,18079,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Humerus,,0.021
+SF64,3.26,6.55,-20.32,14,39.1,6,,Outlier,San Felice,18021,Sheep,Ovis/Capra,Sheep/goat,Ovis,Herbivores,Tibia,,0.045
+SF63,3.22,6.83,-20.58,15.37,42.36,6,,,San Felice,18079,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.118
+SF62,3.21,6.76,-20.43,15.26,42.05,6,,,San Felice,18019,Sheep/goat,Ovis/Capra,Sheep/goat,Capra?,Herbivores,Mandible,,0.108
+SF61,3.22,5.31,-20.91,15.27,42.11,6,,,San Felice,18050,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Tibia,,0.103
+SF60,3.22,3.36,-19.96,14.6,40.3,6,,Outlier,San Felice,18020,Goat,Ovis/Capra,Sheep/goat,Capra,Herbivores,Tibia,,0.113
+SF59,3.23,5.97,-20.36,15.88,43.98,6,,,San Felice,11016,Pig,Sus,Pig,,Omnivores,Femus,,0.108
+SF58,3.2,4.26,-20.32,15.6,42.85,6,,,San Felice,18020,Pig,Sus,Pig,,Omnivores,Humerus,,0.106
+SF57,3.27,6.04,-20.97,14.93,41.89,6,,,San Felice,18039,Pig,Sus,Pig,,Omnivores,Metatarsal III,,0.055
+SF56,3.25,6.3,-20.48,15.49,43.2,6,,,San Felice,18029,Pig,Sus,Pig,,Omnivores,Ulna,,0.036
+SF56,3.25,6.3,-20.48,15.49,43.2,6,,,San Felice,18029,Pig,Sus,Pig,,Omnivores,Ulna,,0.036
+SF50,3.42,8.03,-20.88,14.9,43.7,6,,Outlier,San Felice,18039,Cattle,Bos,Cattle,,Herbivores,Carpal,,0.045
+SF49,3.23,3.71,-21.17,16.6,45.97,6,,,San Felice,11016,Cattle,Bos,Cattle,,Herbivores,Phalanx I,,0.058
+VV30,3.22,7,-19.9,14.1,38.9,7,,Repeat of outlier,Vagnari vicus,4027,Cattle,Bos,Cattle,,Herbivores,Phalanx I,,0.053
+VV18,3.28,2.7,-19.7,13.7,38.5,7,,Repeat of outlier,Vagnari vicus,4030,Pig,Sus,Pig,,Omnivores,Phalanx I,,0.042
+VV11,3.28,7.6,-21.3,14.6,41.1,7,,Repeat of outlier,Vagnari vicus,2024,Pig,Sus,Pig,,Omnivores,Mandible,,0.058
+SF65,3.41,8,-19.9,13.4,39.2,7,,Repeat of outlier,San Felice,18079,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Humerus,,0.021
+SF64,3.26,6.6,-20.3,14.8,41.4,7,,Repeat of outlier,San Felice,18021,Sheep,Ovis/Capra,Sheep/goat,Ovis,Herbivores,Tibia,,0.045
+SF60,3.21,3.3,-20.1,15,41.3,7,,Repeat of outlier,San Felice,18020,Goat,Ovis/Capra,Sheep/goat,Capra,Herbivores,Tibia,,0.113
+SF50,3.28,8,-20.7,14.5,40.8,7,,Repeat of outlier,San Felice,18039,Cattle,Bos,Cattle,,Herbivores,Carpal,,0.045
+SF44,3.29,7.6,-20,12.7,35.8,7,,Repeat of outlier,San Felice,18019,Cattle,Bos,Cattle,,Herbivores,Astragalus,,0.033
+SF42,3.23,2.5,-19.9,14.9,41.3,7,,Repeat of outlier,San Felice,11022,Pig,Sus,Pig,,Omnivores,Maxilla,,0.1
+SF33,3.26,2.6,-21,14.1,39.4,7,,Repeat of outlier,San Felice,18056,Cattle,Bos,Cattle,,Herbivores,Radius,,0.048
+VV10,3.17,6.67,-21.79,15.6,42.4,8,,,Vagnari vicus,4030,Sheep/goat,Ovis/Capra,Sheep/goat,,Herbivores,Metacarpal,,0.122
+SF44,3.26,7.31,-20.08,14.2,39.7,8,,,San Felice,18019,Cattle,Bos,Cattle,,Herbivores,Astragalus,,0.033
+SF56,3.21,6.27,-20.83,15.7,43.2,8,,,San Felice,18029,Pig,Sus,Pig,,Omnivores,Ulna,,0.036
+SF56,3.21,6.27,-20.83,15.7,43.2,8,,,San Felice,18029,Pig,Sus,Pig,,Omnivores,Ulna,,0.036
