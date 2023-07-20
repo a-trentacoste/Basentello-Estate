@@ -46,37 +46,37 @@ using the R script provided in the publication: Note that this requires the scri
 These methods estimate birth seasonality using the position of maximum δ18Ocarb value scaled relative to the length of the tooth (Balasse et al. 2012).
 
 ## Contents
-BasentelloValley_Analysis.R - annotated R script
-BVestate_collagen_SI.csv - collagen (C, N) isotope results and sample details for Vagnari and San Felice
-BVestate_enamel_SI.csv - tooth enamel carbonate istope results (O, C, Sr) and sample details for Vagnari and San Felice 
-BVestate_enamel_Strontium.csv - strontium isotope ratios from tooth enamel from Vagnari and San Felice 
-BVestate_FTIR.csv - FTIR peak heights from Vagnari and San Felice tooth enamel
-Comparative_collagenSI_ItalyFauna.csv - comparative C and N isotope values from bone collagen from other Etruscan and Roman fauna in Italy
-Comparative_collagenSI_VagnariHuman.csv - comparative C and N isotope values from bone collagen from humans from the Vagnari cemetery
-Comparative_enamel_VagnariCemetery.csv - comparative O, C, and Sr isotope values from tooth enamel from humans from the Vagnari cemetery
+BasentelloValley_Analysis.R - annotated R script<br>
+BVestate_collagen_SI.csv - collagen (C, N) isotope results and sample details for Vagnari and San Felice <br>
+BVestate_enamel_SI.csv - tooth enamel carbonate istope results (O, C, Sr) and sample details for Vagnari and San Felice <br>
+BVestate_enamel_Strontium.csv - strontium isotope ratios from tooth enamel from Vagnari and San Felice <br>
+BVestate_FTIR.csv - FTIR peak heights from Vagnari and San Felice tooth enamel<br>
+Comparative_collagenSI_ItalyFauna.csv - comparative C and N isotope values from bone collagen from other Etruscan and Roman fauna in Italy<br>
+Comparative_collagenSI_VagnariHuman.csv - comparative C and N isotope values from bone collagen from humans from the Vagnari cemetery<br>
+Comparative_enamel_VagnariCemetery.csv - comparative O, C, and Sr isotope values from tooth enamel from humans from the Vagnari cemetery<br>
 
 
 
 
 ## References
-Balasse M, Obein G, Ughetto-Monfrin J, Mainland I (2012) Investigating seasonality and season of birth in past herds: a reference set of sheep enamel stable oxygen isotope ratios Archaeometry 54:349–368 doi:10.1111/j.1475-4754.2011.00624.x
+Balasse M, Obein G, Ughetto-Monfrin J, Mainland I (2012) Investigating seasonality and season of birth in past herds: a reference set of sheep enamel stable oxygen isotope ratios Archaeometry 54:349–368 doi: https://doi.org/10.1111/j.1475-4754.2011.00624.x
 
-Chazin H, Deb S, Falk J, Srinivasan A (2019) New Statistical Approaches to Intra-individual Isotopic Analysis and Modelling of Birth Seasonality in Studies of Herd Animals Archaeometry 61:478-493 doi:https://doi.org/10.1111/arcm.12432
+Chazin H, Deb S, Falk J, Srinivasan A (2019) New Statistical Approaches to Intra-individual Isotopic Analysis and Modelling of Birth Seasonality in Studies of Herd Animals Archaeometry 61:478-493 doi: https://doi.org/10.1111/arcm.12432
 
-Craig OE et al. (2009) Stable isotopic evidence for diet at the Imperial Roman coastal site of Velia (1st and 2nd Centuries AD) in Southern Italy American Journal of Physical Anthropology 139:572-583 doi:10.1002/ajpa.21021
+Craig OE et al. (2009) Stable isotopic evidence for diet at the Imperial Roman coastal site of Velia (1st and 2nd Centuries AD) in Southern Italy American Journal of Physical Anthropology 139:572-583 doi: https://doi.org/10.1002/ajpa.21021
 
-Eckrich CA, Albeke SE, Flaherty EA, Bowyer RT, Ben-David M (2020) rKIN: Kernel-based method for estimating isotopic niche size and overlap Journal of Animal Ecology 89:757-771 doi:https://doi.org/10.1111/1365-2656.13159
+Eckrich CA, Albeke SE, Flaherty EA, Bowyer RT, Ben-David M (2020) rKIN: Kernel-based method for estimating isotopic niche size and overlap Journal of Animal Ecology 89:757-771 doi: https://doi.org/10.1111/1365-2656.13159
 
-Emery MV, Stark RJ, Murchie TJ, Elford S, Schwarcz HP, Prowse TL (2018) Mapping the origins of Imperial Roman workers (1st–4th century CE) at Vagnari, Southern Italy, using 87Sr/86Sr and δ18O variability American Journal of Physical Anthropology 166:837–850 doi:10.1002/ajpa.23473
+Emery MV, Stark RJ, Murchie TJ, Elford S, Schwarcz HP, Prowse TL (2018) Mapping the origins of Imperial Roman workers (1st–4th century CE) at Vagnari, Southern Italy, using 87Sr/86Sr and δ18O variability American Journal of Physical Anthropology 166:837–850 doi: https://doi.org/10.1002/ajpa.23473
 
-IAEA/WMO (2019) Global Network of Isotopes in Precipitation. The GNIP Database. 
+IAEA/WMO (2019) Global Network of Isotopes in Precipitation. The GNIP Database. https://nucleus.iaea.org/wiser
 
-O'Connell TC et al. (2019) Living and dying at the Portus Romae Antiquity 93:719–734 doi:10.15184/aqy.2019.64
+O'Connell TC et al. (2019) Living and dying at the Portus Romae Antiquity 93:719–734 doi: https://doi.org/10.15184/aqy.2019.64
 
 Prowse T (2001) Isotopic and dental evidence for diet from the necropolis of Isola Sacra (1st-3rd centuries AD), Italy. PhD dissertation, McMaster University
 
-Semchuk L (2016) A stable isotope investigation of diet at Vagnari. McMaster University
+Semchuk L (2016) A stable isotope investigation of diet at Vagnari. MA theis, School of Graduate Studies, McMaster University. http://hdl.handle.net/11375/20498
 
-Soncin S et al. (2021) High-resolution dietary reconstruction of victims of the 79 CE Vesuvius eruption at Herculaneum by compound-specific isotope analysis Science Advances 7:eabg5791 doi:10.1126/sciadv.abg5791
+Soncin S et al. (2021) High-resolution dietary reconstruction of victims of the 79 CE Vesuvius eruption at Herculaneum by compound-specific isotope analysis Science Advances 7:eabg5791 doi: https://doi.org/10.1126/sciadv.abg5791
 
-Trentacoste A, Lightfoot E, Le Roux P, Buckley M, Kansa SW, Esposito C, Gleba M (2020) Heading for the hills? A multi-isotope study of sheep management in first-millennium BC Italy Journal of Archaeological Science: Reports 29:102036 doi:https://doi.org/10.1016/j.jasrep.2019.102036
+Trentacoste A, Lightfoot E, Le Roux P, Buckley M, Kansa SW, Esposito C, Gleba M (2020) Heading for the hills? A multi-isotope study of sheep management in first-millennium BC Italy Journal of Archaeological Science: Reports 29:102036 doi: https://doi.org/10.1016/j.jasrep.2019.102036
